@@ -10,7 +10,7 @@ Before running the script, ensure that you have the following:
 - PostgreSQL client (`psql`) installed on the machine where you run the script.
 - Network connectivity and appropriate security group settings to allow the machine running the script to connect to your PostgreSQL database.
 
-## Flowchart in Mermaid
+## Flowchart 
 
 ```bash
 +------------------------+
